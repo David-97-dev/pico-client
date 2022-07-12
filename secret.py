@@ -1,0 +1,3 @@
+SSID = "BT-9KAWXZ"
+PASSWORD = "uTKaDmM9tm49ft"
+
